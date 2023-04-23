@@ -6,6 +6,10 @@ I'm graduated Health Data Science at HRH Princess Chulabhorn College of Medical 
 * 🌍  I'm based in Samutprakarn/Bangkok
 * ✉️  You can contact me at [pongpat.phu@hotmail.com](mailto:pongpat.phu@hotmail.com)
 
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
+
 ### Skills
 
 <p align="left">
