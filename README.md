@@ -2,14 +2,20 @@
 
 [![Linkedin: pongpat-phuaudomcharoen](https://img.shields.io/badge/-Pongpat%20Phuaudomcharoen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/)](https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/)
 
+Welcome to my GitHub profile. <br><br>
+I'm a `Health Data Science` and passionate about AI. Here, you'll find a collection of my  projects, contributions, and more.
+<br><br>
 
-Welcome to my GitHub profile! I'm a Data Science and passionate about AI. Here, you'll find a collection of my  projects, contributions, and more.
+### 💻 Programming Languages
+  - Python (4 years of exp.)
+  - SQL (~1 year of exp.)
+  - R (~3 months of exp.)
 
-## 🔧 Technologies & Tools
+### 📦 Tools
+  - PowerBI
+  - x
+  - x
 
-- 💻 Programming Languages: [List your programming languages]
-- 🛠️ Frameworks: [List frameworks you're familiar with]
-- 📦 Tools: [List tools, libraries, or software you frequently use]
 
 ## 🚀 Projects
 
