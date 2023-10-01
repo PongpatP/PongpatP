@@ -58,4 +58,5 @@ You can find more projects and code repositories in my [GitHub profile](https://
 ## 🤝 Contributions
 I'm always open to collaboration and contributions. If you have any ideas or want to work together on something, please don't hesitate to get in touch!
 
+<br>
 Thanks for visiting my GitHub profile! 😄
