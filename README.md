@@ -21,9 +21,8 @@ I'm a `Health Data Science` and passionate about AI. Here, you'll find a collect
 
 Here are some of my notable projects:
 
-1. [Project Name](link-to-project) - Short description of the project.
-2. [Another Project](link-to-another-project) - Brief overview.
-3. ...
+1. [Image segmentation for dengue virus foci detection in focus forming assay](https://github.com/si-medbif/dengue_foci) - count numbers and measure areas of dengue foci in focus forming assay
+2. [Segmentation of Lung Lobes and Lesions in Chest CT for the Classification of COVID-19 Severity](https://github.com/hds-69/csc-app) - segmentation lung lobe and lesion area for covid-19 patient
 
 You can find more projects and code repositories in my [GitHub profile](https://github.com/yourusername).
 
