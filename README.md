@@ -7,15 +7,20 @@ I'm a `Health Data Science` and passionate about AI. Here, you'll find a collect
 <br><br>
 
 ### 💻 Programming Languages
-  - Python (4 years of exp.)
-  - SQL (~1 year of exp.)
-  - R (~3 months of exp.)
-  - Kotlin (coming soon)
+  - Python (4 years of experience)
+  - SQL (~1 year of experience)
+  - R (~3 months of experience)
+  - Kotlin (Coming soon :smile:)
+
+<br>
 
 ### 📦 Tools
-  - PowerBI
-  - x
-  - x
+  - Project Management (Jira, Monday, Excel, Google Chat)
+  - Database (DBeaver, MySQL)
+  - MS Power Platform (Power Apps, Power Automate, Power BI)
+  - Looker Studio
+  - Github
+  - Postman
 
 <br>
 
@@ -29,10 +34,26 @@ Here are some of my notable projects:
 You can find more projects and code repositories in my [GitHub profile](https://github.com/yourusername).
 <br><br>
 
-## 📝 Experience
-- [Blog Post Title 1](link-to-blog-post1) - Summary of the post.
-- [Blog Post Title 2](link-to-blog-post2) - Brief description.
+## 📝 Work Experience
+  | Role          | Contract    | Company                  | Period                                |
+  |---------------|-------------|--------------------------|---------------------------------------|
+  | Data Science  | Full-time   | Touch Technologies       | Sep 2023 - Now                        |
+  | AI Engineer   | Part-time   | Touch Technologies       | Jan 2023 - Aug 2023 ( 8 month )       |
+  | Data Science  | Full-time   | Chulabhorn Royal Academy | Aug 2022 - Aug 2023 ( 1 year 1 month )|
+  
+  
 <br>
+
+## 📖 Independent Project
+1. Coming Soon
+
+<br>
+
+## 🏃 Free time Activity 
+1. 
+
+<br>
+
 
 ## 📫 Contact Me
 - Email: [pongpat.phu@hotmail.com](pongpat.phu@hotmail.com)
