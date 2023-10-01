@@ -1,10 +1,9 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Pongpat. 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
-[![Linkedin: yourname](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
 
-Welcome to my GitHub profile! I'm a [your job title] and passionate about [your interests]. Here, you'll find a collection of my open-source projects, contributions, and more.
+[![Linkedin: PongpatP](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/))
+
+Welcome to my GitHub profile! I'm a Data Science and passionate about AI. Here, you'll find a collection of my  projects, contributions, and more.
 
 ## 🔧 Technologies & Tools
 
