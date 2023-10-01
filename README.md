@@ -1,7 +1,7 @@
 # Hello, I'm Pongpat. 👋
 
+[![Linkedin: pongpat-phuaudomcharoen](https://img.shields.io/badge/-Pongpat%20Phuaudomcharoen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/)](https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/)
 
-[![Linkedin](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)]([https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/](https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/))
 
 Welcome to my GitHub profile! I'm a Data Science and passionate about AI. Here, you'll find a collection of my  projects, contributions, and more.
 
