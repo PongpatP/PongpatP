@@ -10,12 +10,14 @@ I'm a `Health Data Science` and passionate about AI. Here, you'll find a collect
   - Python (4 years of exp.)
   - SQL (~1 year of exp.)
   - R (~3 months of exp.)
+  - Kotlin (coming soon)
 
 ### 📦 Tools
   - PowerBI
   - x
   - x
 
+<br>
 
 ## 🚀 Projects
 
@@ -25,22 +27,19 @@ Here are some of my notable projects:
 2. [Segmentation of Lung Lobes and Lesions in Chest CT for the Classification of COVID-19 Severity](https://github.com/hds-69/csc-app) - segmentation lung lobe and lesion area for covid-19 patient
 
 You can find more projects and code repositories in my [GitHub profile](https://github.com/yourusername).
+<br><br>
 
-## 📝 Blog
-
-I occasionally write about topics I'm passionate about. Check out my latest blog posts:
-
+## 📝 Experience
 - [Blog Post Title 1](link-to-blog-post1) - Summary of the post.
 - [Blog Post Title 2](link-to-blog-post2) - Brief description.
-
-Visit my [blog](https://yourbloglink.com) for more articles.
+<br>
 
 ## 📫 Contact Me
 - Email: [pongpat.phu@hotmail.com](pongpat.phu@hotmail.com)
 - LinkedIn: [Pongpat Phuaudomcharoen](https://www.linkedin.com/in/pongpat-phuaudomcharoen-930841263/)
+<br>
 
 ## 🤝 Contributions
-
 I'm always open to collaboration and contributions. If you have any ideas or want to work together on something, please don't hesitate to get in touch!
 
 Thanks for visiting my GitHub profile! 😄
