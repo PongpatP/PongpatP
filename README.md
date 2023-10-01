@@ -21,6 +21,7 @@ I'm a `Health Data Science` and passionate about AI. Here, you'll find a collect
   - Looker Studio
   - Github
   - Postman
+  - etc.
 
 <br>
 
@@ -38,8 +39,8 @@ You can find more projects and code repositories in my [GitHub profile](https://
   | Role          | Contract    | Company                  | Period                                |
   |---------------|-------------|--------------------------|---------------------------------------|
   | Data Science  | Full-time   | Touch Technologies       | Sep 2023 - Now                        |
-  | AI Engineer   | Part-time   | Touch Technologies       | Jan 2023 - Aug 2023 ( 8 month )       |
-  | Data Science  | Full-time   | Chulabhorn Royal Academy | Aug 2022 - Aug 2023 ( 1 year 1 month )|
+  | AI Engineer   | Part-time   | Touch Technologies       | Jan 2023 - Aug 2023 ( 8 months )       |
+  | Data Science  | Full-time   | Chulabhorn Royal Academy | Aug 2022 - Aug 2023 ( 1 year 1 months )|
   
   
 <br>
@@ -48,12 +49,6 @@ You can find more projects and code repositories in my [GitHub profile](https://
 1. Coming Soon
 
 <br>
-
-## 🏃 Free time Activity 
-1. 
-
-<br>
-
 
 ## 📫 Contact Me
 - Email: [pongpat.phu@hotmail.com](pongpat.phu@hotmail.com)
