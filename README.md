@@ -40,7 +40,7 @@ You can find more projects and code repositories in my [GitHub profile](https://
   |---------------|-------------|--------------------------|---------------------------------------|
   | Data Science  | Full-time   | Touch Technologies       | Sep 2023 - Now                        |
   | AI Engineer   | Part-time   | Touch Technologies       | Jan 2023 - Aug 2023 ( 8 months )       |
-  | Data Science  | Full-time   | Chulabhorn Royal Academy | Aug 2022 - Aug 2023 ( 1 year 1 months )|
+  | Data Science  | Full-time   | Chulabhorn Royal Academy | Aug 2022 - Aug 2023 ( 1 year 1 month )|
   
   
 <br>
