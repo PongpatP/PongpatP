@@ -45,7 +45,7 @@ You can find more projects and code repositories in my [GitHub profile](https://
   
 <br>
 
-## 📖 Independent Project
+## 📖 Self-study Project
 1. (In progress) [100 day with python TH](https://github.com/PongpatP/100day_with_python_TH/tree/main) - Share Code/Trick in Thai languague (Contents from [Phillip](https://github.com/phillipai/100-days-of-code-python/tree/main))
 
 <br>
