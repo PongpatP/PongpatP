@@ -52,8 +52,8 @@ You can find more projects and code repositories in my [GitHub profile](https://
 <br>
 
 ## 📖 Events
-1. (In progress) [Data Science Bootcamp #9 By DATAROCKIE](https://data-science-bootcamp1.teachable.com/)
-2. (In progress) [AI ML IoT (AI ML IoT skill) by depa](https://www.facebook.com/photo/?fbid=789832376273866&set=a.550249283565511)
+1. (In progress) [Data Science Bootcamp #9 By DATAROCKIE](https://data-science-bootcamp1.teachable.com/) - Bootcamp
+2. (In progress) [AI ML IoT (AI ML IoT skill) by depa](https://www.facebook.com/photo/?fbid=789832376273866&set=a.550249283565511) - Bootcamp
 <br>
 
 ## 📫 Contact Me
