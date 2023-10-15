@@ -10,7 +10,7 @@ I'm a `Health Data Science` and passionate about AI. Here, you'll find a collect
   - Python (4 years of experience)
   - SQL (~1 year of experience)
   - R (~3 months of experience)
-  - Kotlin (Coming soon :smile:)
+
 
 <br>
 
@@ -45,9 +45,15 @@ You can find more projects and code repositories in my [GitHub profile](https://
   
 <br>
 
-## 📖 Self-study Project
+## 📖 Self-study
 1. (In progress) [100 day with python TH](https://github.com/PongpatP/100day_with_python_TH/tree/main) - Share Code/Trick in Thai languague (Contents from [Phillip](https://github.com/phillipai/100-days-of-code-python/tree/main))
 2. (In progress) [MLflow TH](https://github.com/PongpatP/MLflow_TH) - Share Code/Trick in Thai languague (Contents from [Datacamp](https://www.datacamp.com/))
+3. (In progress) [Social Listening TH](https://github.com/PongpatP/SocialListening_TH) - Share Code/Trick in Thai languague  (Contents from [Datarockie](https://data-science-bootcamp1.teachable.com/p/social-listening) and [Skooldio](https://www.skooldio.com/courses/social-media-data-analytics))
+<br>
+
+## 📖 Events
+1. (In progress) [Data Science Bootcamp #9 By DATAROCKIE](https://data-science-bootcamp1.teachable.com/)
+2. (In progress) [AI ML IoT (AI ML IoT skill) by depa](https://www.facebook.com/photo/?fbid=789832376273866&set=a.550249283565511)
 <br>
 
 ## 📫 Contact Me
