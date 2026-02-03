@@ -50,8 +50,13 @@ You can find more projects and code repositories in my [GitHub profile](https://
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PongpatP&show_icons=true&theme=radical&hide_border=true" height="150" alt="PongpatP's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PongpatP&layout=compact&theme=radical&hide_border=true" height="150" alt="PongpatP's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PongpatP&show_icons=true&theme=radical&hide_border=true" 
+       height="150" 
+       alt="PongpatP's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PongpatP&layout=compact&theme=radical&hide_border=true" 
+       height="150" 
+       alt="PongpatP's Top Languages" />
 </div>
 
 
